@@ -8,7 +8,6 @@
 <body>
     <h1>Detail Pegawai</h1>
     <table border="1" cellpadding="8" cellspacing="0">
-                    TEKIK INFORMATIKA – PENS 36
         <tr>
             <th>Nama Lengkap</th>
             <td>{{ $employee->nama_lengkap }}</td>
